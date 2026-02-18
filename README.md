@@ -1,5 +1,11 @@
 🏗️ Architecture Diagram
 
+# Multi-Environment CI/CD Pipeline (Dev–QA–Prod)
+
+## Architecture Diagram
+
+![CI/CD Architecture](architecture.png)
+
 
 
 🚀 Multi-Environment CI/CD Pipeline (Dev–QA–Prod)
